@@ -24,3 +24,12 @@ print ("Current temperature is: {:.2f} deg C".format(temp_city))
 print ("Current weather desc  :",weather_desc)
 print ("Current Humidity      :",hmdt, '%')
 print ("Current wind speed    :",wind_spd ,'kmph')
+
+Enter the city name: chennai
+-------------------------------------------------------------
+Weather Stats for - CHENNAI  || 24 Jun 2021 | 03:52:42 PM
+-------------------------------------------------------------
+Current temperature is: 29.42 deg C
+Current weather desc  : scattered clouds
+Current Humidity      : 85 %
+Current wind speed    : 2.24 kmph
